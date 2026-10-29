@@ -1,0 +1,21 @@
+# Amazon review files (download them, see README)
+data/
+
+# Local environment and credentials
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+
+# OS files
+.DS_Store
+Thumbs.db
